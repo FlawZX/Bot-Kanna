@@ -59,7 +59,7 @@ global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/yogzkyz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '13083101293'
+global.nomorbot = '6289503281086'
 global.nomorown = '6289510598381'
 global.namebot = '𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
 global.nameown = 'YogzFX'
