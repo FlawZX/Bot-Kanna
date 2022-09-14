@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'Ga Punya'
-global.sgh = 'https://tiktok.com/@gnshh__'
-global.sgc = 'https://chat.whatsapp.com/DMomrVYmOUF0UTauhrPohy'
-global.sdc = 'https://discord.gg/qX2BCK2G'
-global.snh = 'https://tiktok.com/@gnshh__'
+global.sig = 'https://Instagram.com/karfuanyogich'
+global.sgh = 'https://tiktok.com/yogzkyzx'
+global.sgc = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
+global.sdc = 'https://discord.gg/73SgrXq4'
+global.snh = 'https://tiktok.com/@yogskyzx'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085961086558'
-global.povo = '085961086558'
-global.pgopay = '085961086558'
-global.ppulsa = '085961086558'
-global.ppulsa2 = '085961086558'
-global.psaweria = '085961086558'
+global.pdana = '089510598381'
+global.povo = '089510598381'
+global.pgopay = '089510598381'
+global.ppulsa = '089510598381'
+global.ppulsa2 = '-'
+global.psaweria = 'https://saweria.co/yogzkyz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '13083101293'
-global.nomorown = '6285961086558'
-global.namebot = 'Fyzu BOT'
-global.nameown = 'Fyzuu'
+global.nomorown = '6289510598381'
+global.namebot = '𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.nameown = 'YogzFX'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285961086558'],
-  ['6285961086558'],
-  ['6285961086558'],
-  ['6285961086558', 'Fyzu ! 🐰', true]
+  ['6289510598381'],
+  ['6289510598381'],
+  ['6289510598381'],
+  ['6289510598381', 'YogzFX', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Fyzu BOT あ⁩ 」' //Main Watermark
-global.wm2 = '「 Fyzu BOT あ⁩ 」'
-global.wm3 = '⫹⫺ Fyzu 𝗕𝗢𝗧'
+global.wm = '                「 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛 あ⁩ 」' //Main Watermark
+global.wm2 = '「 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛 あ⁩ 」'
+global.wm3 = '⫹⫺ 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 Fyzu BOT あ⁩ 」'
+global.titlebot = '🌱 ┊ 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛 Whatsapp Bot'
+global.author = '                「 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛 あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -154,7 +154,7 @@ global.fpagedoc = '999'
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
 global.dmenut = '❏═┅═━–〈' //top
-global.dmenub = '┊•' //body
+global.dmenub = '┊×' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
@@ -175,8 +175,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickpack = 'Created By 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.stickauth = `Made By @YogzFX'
 
 global.multiplier = 38 // The higher, The harder levelup
 
